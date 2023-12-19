@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/Murali-7805/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151489752/5bb611ff-0ffe-4b2a-9b9d-c2e6c8d2f1a8)
 
 
-### Name:
-### Register Number: 
+### Name:Murali KRishna S
+### Register Number:23012882
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
